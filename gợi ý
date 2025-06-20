@@ -1,0 +1,5 @@
+- Giao diện + Kết nối với các hàm: PyQt5 - Bài 2
+- Đọc file csv và xử lý dữ liệu và xuất file csv: pandas - Bài 4
+- Tạo folder output, check tồn tại folder: pathlib - Bài 6
+- File summary (thông tin của file input): xlwing/openpyxl - Bài 3
+ Vẽ đồ thị: matplotlib - Bài 5
